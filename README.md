@@ -6,6 +6,10 @@ Thanks to [tangowithfoxtrot](https://github.com/tangowithfoxtrot) for originally
 
 This repository was created to test the existence of a bug in the [clap](https://github.com/clap-rs/clap) crate, and to be an aid in testing. Let's first define the correct behavior for printing help text in a CLI.
 
+**GitHub Issue**
+
+https://github.com/clap-rs/clap/issues/5113
+
 **What is the correct behavior?**
 
 The help text in a CLI should be printed when no options are provided. (Additionally, when `-h` or `--help` flags are provided.) This is the usual industry standard, and it's also documented [here](https://clig.dev/#help).
