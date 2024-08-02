@@ -8,7 +8,9 @@ This repository was created to test the existence of a bug in the [clap](https:/
 
 **GitHub Issue**
 
-https://github.com/clap-rs/clap/issues/5113
+Original GitHub Issue: https://github.com/clap-rs/clap/issues/5113
+
+Current GitHub Issue: https://github.com/clap-rs/clap/issues/3572
 
 **What is the correct behavior?**
 
